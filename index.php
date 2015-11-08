@@ -6,8 +6,6 @@
  *
  * Uses PHP SESSIONS, modern password-hashing and salting and gives the basic functions a proper login system needs.
  *
- * @author Panique
- * @link https://github.com/panique/php-login-minimal/
  * @license http://opensource.org/licenses/MIT MIT License
  */
 
